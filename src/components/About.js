@@ -14,8 +14,9 @@ const About = () => {
         <Typography>
           <p>
             I created this full stack responsive web app where I'm able to add
-            books to my collection. This was a fantastic learning experience, I
-            was able to go in depth and learn about both front-end and back-end
+            books to my collection and store them in the database. This was a
+            fantastic learning experience as I was able to delve deeper into the
+            world of programming, I leart about both front-end and back-end
             libraries.
           </p>
         </Typography>
